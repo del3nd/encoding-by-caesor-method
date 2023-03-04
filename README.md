@@ -3,6 +3,6 @@ https://en.wikipedia.org/wiki/Caesar_cipher
 
 encode.py encode user's text by caesor method. You just need to enter text, shift and side(left ot right).
 
-guessing.py need for decoding text if you don't now what was the shift while encoding. Program just interate all possible options.
+guessing.py is needed for decoding text if you don't now what was the shift while encoding. Program just interate all possible options.
 
 p.s writted on python 3.8 😅
